@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84822925127",
+    "project_id": "swapp-135e1",
+    "storage_bucket": "swapp-135e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84822925127:android:2881fa991ab36b8bbef662",
+        "android_client_info": {
+          "package_name": "com.swapnita.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84822925127-kjsud0va8di4hcpk2q2o2ijgtjbh2eea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsuklkxGtzszwFWmXHujgZ9gwJZgcwuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84822925127-kjsud0va8di4hcpk2q2o2ijgtjbh2eea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
